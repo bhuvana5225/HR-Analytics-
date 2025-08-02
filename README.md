@@ -81,7 +81,7 @@ There are two ways to explore this project:
 
 2.  **Local File:**
     * Clone this repository or download the `HR_Dashboard.twbx` file.
-    * Open the file using [Tableau Desktop](https://www.tableau.com/products/desktop) or the free [Tableau Reader](https://www.tableau.com/products/reader).
+    * Open the file using [Tableau Desktop](https://public.tableau.com/shared/6C2G3PBDW?:display_count=n&:origin=viz_share_link) 
 
 ## 🔧 Tools Used
 
