@@ -29,8 +29,6 @@ The project consists of two main interactive dashboards:
 
 This dashboard provides a holistic view of the organization's human capital and is divided into three key sections.
 
-*(Pro-Tip: Replace the placeholder below with a screenshot of your summary dashboard!)*
-
 ![Summary Dashboard](images/summary_dashboard.png)
 
 #### **📈 Overview**
@@ -67,7 +65,6 @@ This section focuses on salary and compensation metrics:
 
 This dashboard provides a detailed, tabular view of all employee records. It is designed for granular analysis and specific lookups.
 
-*(Pro-Tip: Replace the placeholder below with a screenshot of your records dashboard!)*
 
 ![Employee Records Dashboard](images/employee_records.png)
 
