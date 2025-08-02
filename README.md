@@ -10,7 +10,6 @@ You can view and interact with the live dashboard directly in your browser by vi
 
 ➡️ **[View the Interactive HR Dashboard on Tableau Public](https://public.tableau.com/shared/6C2G3PBDW?:display_count=n&:origin=viz_share_link)**
 
-*(Note: Remember to replace the placeholder URL with the actual link to your dashboard.)*
 
 ## 🎯 User Story
 
